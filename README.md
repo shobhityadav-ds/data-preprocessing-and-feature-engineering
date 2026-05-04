@@ -48,23 +48,23 @@ This repository covers essential data preprocessing techniques along with fundam
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```id="2nzk3o"
+```
 data-preprocessing-and-statistics/
 │
-├── notebooks/
-│   ├── 01_statistics.ipynb
-│   ├── 02_outlier_detection.ipynb
-│   ├── 03_data_cleaning.ipynb
-│   ├── 04_feature_encoding.ipynb
-│   ├── 05_feature_selection.ipynb
+├── notebooks/              
+│   ├── data_cleaning.ipynb     
+│   ├── data_encoding.ipynb     
+│   ├── feature_selection.ipynb 
+│   ├── featurescalingipynb.ipynb 
+│   ├── outliers.ipynb          
+│   ├── statistics.ipynb        
+│   └── temp.md                
 │
-├── data/
-│   └── sample_dataset.csv
-│
-├── README.md
-└── requirements.txt
+├── .gitignore              
+├── LICENSE                 
+└── README.md              
 ```
 
 ---
