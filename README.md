@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This repository covers essential data preprocessing techniques along with fundamental statistical concepts used in Data Science and Machine Learning. It provides hands-on notebooks for practical understanding.
+This repository covers essential data preprocessing techniques used for exploratory data analysis along with fundamental statistical concepts used in Data Science and Machine Learning. It provides hands-on notebooks for practical understanding.
 
 ---
 
