@@ -1,4 +1,4 @@
-# 📊 Data Preprocessing, Feature Engineering & Statistics
+# 📊 Data Preprocessing, Feature Engineering & Exploratory Data analysis
 
 ## 🚀 Overview
 
